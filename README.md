@@ -24,9 +24,6 @@
 
 
 
-### Deployment
-
-- Javascipt
 
 ## Author
 
