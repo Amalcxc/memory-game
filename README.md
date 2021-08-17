@@ -1,12 +1,10 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # memory Game 
 
 > this is a game where you match pairs of pictures by memory.
 
-![screenshot](Screenshot1.png)
-![screenshot](S2.png)
-![screenshot](S3.png)
+![screenshot](images/Screenshot1.png)
+![screenshot](images/S2.png)
+![screenshot](images/S3.png)
 
 
 ## Built With
