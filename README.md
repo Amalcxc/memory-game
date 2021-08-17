@@ -20,7 +20,7 @@
 
 
 ## Live Demo
-[Live Demo]()
+[Live Demo](https://amalcxc.github.io/memory-game/)
 
 
 
