@@ -3,8 +3,8 @@
 > this is a game where you match pairs of pictures by memory.
 
 ![screenshot](images/Screenshot1.png)
-![screenshot](images/S2.png)
-![screenshot](images/S3.png)
+![screenshot](images/s2.png)
+![screenshot](images/s3.png)
 
 
 ## Built With
